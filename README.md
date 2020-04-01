@@ -30,4 +30,7 @@ Some of the probles we solved during testing :
  * 3-Sat 
  * Sudoku (from e-classroom)
  * Some unsatisfiable formulas 
+ 
+ ## Requirements
+  Python 3.5 or greater
 
